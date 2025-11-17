@@ -1,4 +1,4 @@
-# Chip AI Analysis Service
+# AI Analysis Service
 
 A Go REST API for storing and summarizing documents using LLM.
 
